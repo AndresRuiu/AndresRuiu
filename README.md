@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- Soy de Argentina 🇦🇷<br>- Empecé a aprender a programar desde 2023 🤓<br>- Mis metas para este año son aprender mas sobre backend y a usar astro 🚀</p>
+<p align="left">- Soy de Argentina 🇦🇷<br>- Empecé a programar desde 2023 🤓<br>- Mis metas para este año son aprender mas sobre Backend y usar astro 🚀</p>
 
 ###
 
@@ -47,10 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AndresRuiu/AndresRuiu/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">🌟Mis stats:</h3>
 
 ###
@@ -61,6 +57,11 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/AndresRuiu/AndresRuiu/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 <h3 align="center">🎧<br>Un poco de Música</h3>
 
