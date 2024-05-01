@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- Soy de Argentina 🇦🇷<br>- Empecé a aprender a programar desde el año pasado 🤓<br>- Mis metas para este año son aprender mas sobre backend y a usar astro 🚀</p>
+<p align="left">- Soy de Argentina 🇦🇷<br>- Empecé a aprender a programar desde 2023 🤓<br>- Mis metas para este año son aprender mas sobre backend y a usar astro 🚀</p>
 
 ###
 
