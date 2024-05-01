@@ -1,4 +1,4 @@
-<h2 align="left">👋🏻¡Hola! Soy Andrés, desarrollador Full Stack 👨🏻‍💻<br>con gran pasión por el desarrollo web💻</h2>
+<h2 align="left">¡Hola!👋🏻 Soy Andrés, desarrollador Full Stack 👨🏻‍💻<br>con gran pasión por el desarrollo web💻</h2>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- Soy de Argentina 🇦🇷<br>- Empecé a programar desde 2023 🤓<br>- Mis metas para este año son aprender mas sobre Backend y usar astro 🚀</p>
+<p align="left">- Soy de Argentina 🇦🇷<br>- Empecé a programar en 2023 🤓<br>- Mis metas para este año son aprender mas sobre Backend y usar astro 🚀</p>
 
 ###
 
